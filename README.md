@@ -1,5 +1,8 @@
-# COVID-19 Exploration
-In this project I used SQL to explore some data surrounding COVID-19 cases, vaccinations and deaths. In this project there is a file showing my full SQL Code, I used Google's Big Query software for this Project, and a Markdown file that gives more details on the results of the codes. 
-- [Link to SQL Code](https://github.com/aro1248/COVID-19Exploration/blob/main/COVID-19Exploration_SQL)
+# SQL Portfolio
+👋 Hello, 
+Welcome to my SQL Portfolio!
 
-Currently Working On will be updated Soon!
+| Project Name | Description | Tableau Visual | 
+|--------------|-------------|---------------|
+| [🦠COVID-19 Data Exploration Project](SQL--Code/COVID-19 Portfolio Query.sql) | A project guided by [Alex Fregerg's Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=2). I analysed global COVID data to look more deeply into rising covid cases and deaths related to covid overtime.|
+| Project 2 | Coming Soon | |
