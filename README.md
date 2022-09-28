@@ -1,6 +1,6 @@
 # SQL Portfolio
 👋 Hello, 
-Welcome to my SQL Portfolio!
+Welcome to my SQL Portfolio! Click on Project Name to View Each Projects Code. 
 
 | Project Name | Description | Tableau Visual | 
 |--------------|-------------|---------------|
